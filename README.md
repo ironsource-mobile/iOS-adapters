@@ -12,4 +12,4 @@ https://developers.ironsrc.com/ironsource-mobile/ios/mediation-networks-ios/
 For any question please contact us [here](https://ironsrc.formtitan.com/knowledge-center#/). 
 
 ## License 
-https://developers.ironsrc.com/ironsource-mobile/general/publisher-terms-conditions/
+https://developers.is.com/ironsource-mobile/general/ironsource-platform-online-terms-conditions/
