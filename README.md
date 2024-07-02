@@ -8,7 +8,7 @@ https://developers.is.com/ironsource-mobile/ios/mediation-networks-ios/
 
 
 ## Contact US
-For any question please contact us [here](https://ironsrc.formtitan.com/knowledge-center#/)
+For any question please contact us [here](https://ironsrc.my.site.com/helpcenter/s/)
 
 ## License
 The license can be viewed [here](https://github.com/ironsource-mobile/iOS-adapters/blob/master/LICENSE)
