@@ -7,7 +7,7 @@ Use this documentation to integrate the LevelPlay mediated networks:
 https://developers.is.com/ironsource-mobile/ios/mediation-networks-ios/ 
 
 
-## Contact US
+## Contact Us
 For any question please contact us [here](https://ironsrc.my.site.com/helpcenter/s/)
 
 ## License
